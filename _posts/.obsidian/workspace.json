@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "80d6d6c266ab87cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "83264774fb684451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8de949e2596e10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-11-arena.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-11-arena"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18401da2b0343bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ef0d48668f5525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9614b62ae6ffc0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3295fbcd3726b73b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30d5437edb69ead2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "20f45942f48f2769",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0198eeaf7b6c6163",
+    "type": "split",
+    "children": [
+      {
+        "id": "a716228de65f8045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56970d2376e54a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-02-24-elegies-for-oil-spills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-24-elegies-for-oil-spills"
+            }
+          },
+          {
+            "id": "b58961312f115f60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-02-24-elegies-for-oil-spills.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-24-elegies-for-oil-spills"
+            }
+          },
+          {
+            "id": "8a3a8392e12aa695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d97a62dd488dfca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-02-24-elegies-for-oil-spills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-24-elegies-for-oil-spills"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8de949e2596e10d",
+  "lastOpenFiles": [
+    "2024-07-15-art-jesters-privilege.md",
+    "2025-02-24-elegies-for-oil-spills.md",
+    "2025-05-30-ten-things-three-years.md",
+    "2025-01-05-2025-principles.md",
+    "2024-12-10-three-readings-on-intuition.md",
+    "2024-08-14-ttw-governance.md",
+    "2024-06-11-arena.md",
+    "2024-03-20-solidarity-infra.md",
+    "2024-02-10-brussels.md",
+    "2024-02-07-cultures-of-science-technology.md",
+    "2024-01-05-principles.md",
+    "2023-11-14-artists-way-creativity.md",
+    "2023-08-04-one-year-ttw.md",
+    "2023-07-28-reflections-on-burnout.md",
+    "2023-07-11-osm-reflections-so-far.md",
+    "2023-04-11-reflections-on-open-journey.md",
+    "2023-03-03-omnivorous-analysis.md",
+    "2023-02-15-goatherding-poetic-web.md",
+    "2022-09-22-six-months-ttw.md",
+    "2022-03-13-photos-from.md",
+    "2022-01-11-graduate-press.md",
+    "2021-10-09-the-re-source-project.md",
+    "2024-11-10-humility-interdisciplinarity.md",
+    "2024-12-01-five-readings-on-role-of-higher-education.md",
+    "2024-12-10-third-space.md",
+    "2024-12-09-crisis.md"
+  ]
+}

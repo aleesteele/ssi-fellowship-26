@@ -1,0 +1,24 @@
+# Example Site settings
+title: anne lee steele # name of the site
+author: anne lee steele # name of site's author
+email: aleesteele@gmail.com # email of site's author
+url: https://aleesteele.com # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+
+#google_analytics: UA-NNNNNNNN-N
+
+header_pages:
+ - index.md
+ - about.md
+ - projects.md
+ - blog.md
+ - contact.md
+
+footer: 'made with peace in mind, by <a href="https://twitter.com/aleesteele">@aleesteele</a>'
+
+style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
