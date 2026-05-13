@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Summary
-"From Screens to Studios" is a 2026 research fellowship project supported by the <a href="">Software Sustainability Institute</a>.
+**"From Studios to Servers" is a 2026 research fellowship project supported by the <a href="">Software Sustainability Institute</a>.**
 
 The fellowship explores the relationship between creative computation and academic computing — connecting computational and AI artists with research software engineering (RSE) communities, while bringing critical, poetic, and experimental approaches into technical research environments.
 
@@ -18,32 +18,12 @@ Rather than treating artistic and academic computing as separate worlds, the fel
 
 Throughout 2026, the project may take the form of interviews, workshops, digital walks, collaborations, gatherings, online conversations, and a publication.
 
-# Plans
-Phase 1:
-Phase 2:
-Phase 3:
-Phase 4:
-<table>
-  <tr>
-    <th>Stage</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
-
 # Digital Walks 
 _The title of this series was inspired by Screen Walks, a series that ran from 2020-2025 at the Photographer's Gallery_
 
+# Project updates
+
+13 May 2026: Results of blog
 # Get Involved
 If this project resonates with you, I’d love to hear from you.
 
