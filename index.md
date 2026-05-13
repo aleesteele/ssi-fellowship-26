@@ -24,6 +24,8 @@ _The title of this series was inspired by Screen Walks, a series that ran from 2
 # Project updates
 
 13 May 2026: Results of blog
+{% include all-blog-list.html %}
+
 # Get Involved
 If this project resonates with you, I’d love to hear from you.
 
