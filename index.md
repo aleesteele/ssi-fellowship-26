@@ -4,12 +4,57 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/home.jpg"/>
-# hey, i'm anne lee steele.
+# Summary
+"From Screens to Studios" is a 2026 research fellowship project supported by the <a href="">Software Sustainability Institute</a>.
 
-i'm currently:
-@ <a href="https://www.turing.ac.uk/">the alan turing institute</a> supporting <a href="https://the-turing-way.netlify.app/welcome.html">the turing way</a>
-@ <a href="https://www.schoolofcommons.org/">school of commons</a> gathering poetic tactics to <s>counter extraction</s> train attention
-@ <a href="https://fosdem.org/">fosdem</a> co-organising the <a href="https://research-fosdem.github.io/">open research devroom</a>
-@ <a href="https://sfpc.study/">school for poetic computation</a> thinking about solidarity and infrastructure(s)
-+++ a [few other things](about)...
+The fellowship explores the relationship between creative computation and academic computing — connecting computational and AI artists with research software engineering (RSE) communities, while bringing critical, poetic, and experimental approaches into technical research environments.
+
+The project asks:
+- What can artists and research software engineers learn from one another?
+- How might imagination, infrastructure, and experimentation work together more intentionally?
+- What kinds of tools, practices, and communities emerge when computation is approached as both technical and cultural work?
+
+Rather than treating artistic and academic computing as separate worlds, the fellowship explores the overlap between them: shared infrastructures, collaborative practices, open source cultures, experimental methods, and questions around care, ethics, maintenance, and creativity.
+
+Throughout 2026, the project may take the form of interviews, workshops, digital walks, collaborations, gatherings, online conversations, and a publication.
+
+# Plans
+Phase 1:
+Phase 2:
+Phase 3:
+Phase 4:
+<table>
+  <tr>
+    <th>Stage</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+# Digital Walks 
+_The title of this series was inspired by Screen Walks, a series that ran from 2020-2025 at the Photographer's Gallery_
+
+# Get Involved
+If this project resonates with you, I’d love to hear from you.
+
+Your input will directly shape the programming, structure, and activities of the fellowship throughout 2026 - 2028.
+
+Whether you are an artist, researcher, programmer, designer, student, organizer, or simply curious about these intersections, you are warmly invited to contribute ideas, questions, references, or possibilities for collaboration.
+
+Please feel free to share this with colleagues, friends, and others who may be interested.
+Interest Form
+https://tinyurl.com/ssi-ac-art-computing
+
+### Last updated
+
+_This page was last updated on 13 May 2026._
