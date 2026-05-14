@@ -1,5 +1,5 @@
 ---
-title: /home
+title: home
 layout: home
 permalink: /
 ---
@@ -14,17 +14,12 @@ The project asks:
 - How might imagination, infrastructure, and experimentation work together more intentionally?
 - What kinds of tools, practices, and communities emerge when computation is approached as both technical and cultural work?
 
-Rather than treating artistic and academic computing as separate worlds, the fellowship explores the overlap between them: shared infrastructures, collaborative practices, open source cultures, experimental methods, and questions around care, ethics, maintenance, and creativity.
+Instead of treating artistic and academic computing as separate worlds, the fellowship aims to explore the overlap between the two, and seed connections across them. After all, both already have shared infrastructures, collaborative practices, open source cultures, experimental methods, and questions around care, ethics, maintenance, and creativity.
 
 Throughout 2026, the project may take the form of interviews, workshops, digital walks, collaborations, gatherings, online conversations, and a publication.
 
 # Digital Walks 
 _The title of this series was inspired by Screen Walks, a series that ran from 2020-2025 at the Photographer's Gallery_
-
-# Project updates
-
-13 May 2026: Results of blog
-{% include all-blog-list.html %}
 
 # Get Involved
 If this project resonates with you, I’d love to hear from you.

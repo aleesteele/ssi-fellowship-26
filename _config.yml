@@ -10,11 +10,7 @@ description: > # description of the site (multiple lines allowed)
 
 header_pages:
  - index.md
- - about.md
- - projects.md
- - blog.md
- - contact.md
-
+ - updates.md
 footer: 'project page by <a href="https://aleesteele.com/">anne lee steele</a> (@aleesteele)'
 
 style: light # dark (default) or light
@@ -22,3 +18,20 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+
+collections:
+  posts:
+    output: true
+    permalink: /update/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: blog       # applies to the `blog` collection
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects   # applies to the `projects` collection
+    values:
+      layout: post
